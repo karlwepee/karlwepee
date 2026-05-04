@@ -1,0 +1,163 @@
+<svg width="980" height="660" viewBox="0 0 980 660" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="rc"><rect width="980" height="660" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#rc)">
+
+    <rect width="980" height="660" fill="#1e1e1e"/>
+
+    <!-- Titlebar -->
+    <rect width="980" height="44" fill="#323233"/>
+    <circle cx="22" cy="22" r="7" fill="#ff5f56"/>
+    <circle cx="44" cy="22" r="7" fill="#ffbd2e"/>
+    <circle cx="66" cy="22" r="7" fill="#27c93f"/>
+    <text x="490" y="29" text-anchor="middle" fill="#8c8c8c" font-size="15" font-family="Courier New, monospace">kw-null — VSCode</text>
+
+    <!-- Tab bar -->
+    <rect y="44" width="980" height="36" fill="#252526"/>
+    <rect x="0" y="44" width="145" height="36" fill="#1e1e1e"/>
+    <rect x="0" y="78" width="145" height="2" fill="#569cd6"/>
+    <text x="16" y="68" fill="#cccccc" font-size="15" font-family="Courier New, monospace">README.md</text>
+    <rect x="145" y="44" width="1" height="36" fill="#3c3c3c"/>
+    <text x="160" y="68" fill="#6c6c6c" font-size="15" font-family="Courier New, monospace">profile.json</text>
+    <rect x="282" y="44" width="1" height="36" fill="#3c3c3c"/>
+    <text x="296" y="68" fill="#6c6c6c" font-size="15" font-family="Courier New, monospace">skills.py</text>
+
+    <!-- Sidebar -->
+    <rect x="0" y="80" width="190" height="536" fill="#252526"/>
+    <rect x="190" y="80" width="1" height="536" fill="#3c3c3c"/>
+
+    <text x="14" y="108" fill="#bbbcbe" font-size="11" font-family="Courier New, monospace" letter-spacing="1">EXPLORER</text>
+    <rect x="0" y="114" width="190" height="26" fill="#094771"/>
+    <text x="14" y="132" fill="#ffffff" font-size="15" font-family="Courier New, monospace">&#128196; README.md</text>
+    <text x="14" y="158" fill="#8c8c8c" font-size="15" font-family="Courier New, monospace">&#128193; projects/</text>
+    <text x="14" y="184" fill="#8c8c8c" font-size="15" font-family="Courier New, monospace">&#128193; skills/</text>
+    <text x="14" y="210" fill="#8c8c8c" font-size="15" font-family="Courier New, monospace">&#9881; .gitconfig</text>
+    <text x="14" y="236" fill="#8c8c8c" font-size="15" font-family="Courier New, monospace">&#128221; notes.txt</text>
+
+    <text x="14" y="272" fill="#bbbcbe" font-size="11" font-family="Courier New, monospace" letter-spacing="1">GIT</text>
+    <circle cx="22" cy="284" r="5" fill="#27c93f"/>
+    <text x="34" y="289" fill="#8c8c8c" font-size="15" font-family="Courier New, monospace">main</text>
+    <text x="14" y="315" fill="#569cd6" font-size="15" font-family="Courier New, monospace">&#8593; push ready</text>
+
+    <!-- Line numbers bg -->
+    <rect x="191" y="80" width="48" height="536" fill="#1e1e1e"/>
+    <rect x="239" y="80" width="1" height="536" fill="#2d2d2d"/>
+
+    <!-- Line numbers -->
+    <text x="232" y="112"  text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">1</text>
+    <text x="232" y="138" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">2</text>
+    <text x="232" y="164" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">3</text>
+    <text x="232" y="190" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">4</text>
+    <text x="232" y="216" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">5</text>
+    <text x="232" y="242" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">6</text>
+    <text x="232" y="268" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">7</text>
+    <text x="232" y="294" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">8</text>
+    <text x="232" y="320" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">9</text>
+    <text x="232" y="346" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">10</text>
+    <text x="232" y="372" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">11</text>
+    <text x="232" y="398" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">12</text>
+    <text x="232" y="424" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">13</text>
+    <text x="232" y="450" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">14</text>
+    <text x="232" y="476" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">15</text>
+    <text x="232" y="502" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">16</text>
+    <text x="232" y="528" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">17</text>
+    <text x="232" y="554" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">18</text>
+    <text x="232" y="580" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">19</text>
+    <text x="232" y="606" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">20</text>
+    <text x="232" y="628" text-anchor="end" fill="#404040" font-size="15" font-family="Courier New, monospace">21</text>
+
+    <!-- CODE x=252, line-height=26, start y=112 -->
+
+    <!-- 1 -->
+    <text x="252" y="112" fill="#6a9955" font-size="15" font-family="Courier New, monospace"># =============================================</text>
+    <!-- 2 -->
+    <text x="252" y="138" fill="#6a9955" font-size="15" font-family="Courier New, monospace">#     karl_adrian_wepee . profile</text>
+    <!-- 3 -->
+    <text x="252" y="164" fill="#6a9955" font-size="15" font-family="Courier New, monospace"># =============================================</text>
+    <!-- 4 blank -->
+    <!-- 5: class -->
+    <text x="252" y="216" fill="#569cd6" font-size="15" font-family="Courier New, monospace">class </text>
+    <text x="312" y="216" fill="#4ec9b0" font-size="15" font-family="Courier New, monospace">Developer</text>
+    <text x="420" y="216" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">:</text>
+    <!-- 6: def __init__ -->
+    <text x="270" y="242" fill="#569cd6" font-size="15" font-family="Courier New, monospace">def </text>
+    <text x="310" y="242" fill="#dcdcaa" font-size="15" font-family="Courier New, monospace">__init__</text>
+    <text x="400" y="242" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">(</text>
+    <text x="410" y="242" fill="#569cd6" font-size="15" font-family="Courier New, monospace">self</text>
+    <text x="450" y="242" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">):</text>
+    <!-- 7: self.name -->
+    <text x="288" y="268" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">self</text>
+    <text x="328" y="268" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">.</text>
+    <text x="336" y="268" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">name</text>
+    <text x="390" y="268" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace"> = </text>
+    <text x="420" y="268" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Karl Adrian U. Wepee"</text>
+    <!-- 8: self.alias -->
+    <text x="288" y="294" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">self</text>
+    <text x="328" y="294" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">.</text>
+    <text x="336" y="294" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">alias</text>
+    <text x="400" y="294" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace"> = </text>
+    <text x="430" y="294" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"kw-null"</text>
+    <!-- 9: self.status -->
+    <text x="288" y="320" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">self</text>
+    <text x="328" y="320" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">.</text>
+    <text x="336" y="320" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">status</text>
+    <text x="420" y="320" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace"> = </text>
+    <text x="450" y="320" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"3rd Year CS Student"</text>
+    <!-- 10: self.location -->
+    <text x="288" y="346" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">self</text>
+    <text x="328" y="346" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">.</text>
+    <text x="336" y="346" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">location</text>
+    <text x="436" y="346" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace"> = </text>
+    <text x="466" y="346" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Philippines 🇵🇭"</text>
+    <!-- 11 blank -->
+    <!-- 12: def get_stack -->
+    <text x="270" y="398" fill="#569cd6" font-size="15" font-family="Courier New, monospace">def </text>
+    <text x="310" y="398" fill="#dcdcaa" font-size="15" font-family="Courier New, monospace">get_stack</text>
+    <text x="418" y="398" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">(</text>
+    <text x="428" y="398" fill="#569cd6" font-size="15" font-family="Courier New, monospace">self</text>
+    <text x="468" y="398" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">):</text>
+    <!-- 13: return row 1 -->
+    <text x="288" y="424" fill="#569cd6" font-size="15" font-family="Courier New, monospace">return </text>
+    <text x="358" y="424" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Java"</text>
+    <text x="412" y="424" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">, </text>
+    <text x="430" y="424" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Python"</text>
+    <text x="502" y="424" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">, </text>
+    <text x="520" y="424" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"JavaScript"</text>
+    <text x="634" y="424" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">,</text>
+    <!-- 14: return row 2 -->
+    <text x="358" y="450" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"React"</text>
+    <text x="418" y="450" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">, </text>
+    <text x="436" y="450" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Node.js"</text>
+    <text x="520" y="450" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">, </text>
+    <text x="538" y="450" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"MySQL"</text>
+    <!-- 15 blank -->
+    <!-- 16: def get_focus -->
+    <text x="270" y="502" fill="#569cd6" font-size="15" font-family="Courier New, monospace">def </text>
+    <text x="310" y="502" fill="#dcdcaa" font-size="15" font-family="Courier New, monospace">get_focus</text>
+    <text x="418" y="502" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">(</text>
+    <text x="428" y="502" fill="#569cd6" font-size="15" font-family="Courier New, monospace">self</text>
+    <text x="468" y="502" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">):</text>
+    <!-- 17 -->
+    <text x="288" y="528" fill="#569cd6" font-size="15" font-family="Courier New, monospace">return </text>
+    <text x="358" y="528" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Expanding depth across my current stack"</text>
+    <!-- 18 blank -->
+    <!-- 19: run comment -->
+    <text x="252" y="580" fill="#6a9955" font-size="15" font-family="Courier New, monospace"># --- run ---</text>
+    <!-- 20 -->
+    <text x="252" y="606" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">me</text>
+    <text x="282" y="606" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace"> = </text>
+    <text x="312" y="606" fill="#4ec9b0" font-size="15" font-family="Courier New, monospace">Developer</text>
+    <text x="418" y="606" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">()  </text>
+    <!-- 21 -->
+    <text x="252" y="628" fill="#6a9955" font-size="15" font-family="Courier New, monospace"># output: still compiling... |</text>
+
+    <!-- Status bar -->
+    <rect y="636" width="980" height="28" fill="#007acc"/>
+    <text x="14" y="655" fill="#ffffff" font-size="15" font-family="Courier New, monospace">&#9679; main</text>
+    <text x="86" y="655" fill="#ffffff" font-size="15" font-family="Courier New, monospace">&#9889; 0 errors</text>
+    <text x="200" y="655" fill="#ffffff" font-size="15" font-family="Courier New, monospace">Python</text>
+    <text x="760" y="655" fill="#ffffff" font-size="15" font-family="Courier New, monospace">UTF-8</text>
+    <text x="830" y="655" fill="#ffffff" font-size="15" font-family="Courier New, monospace">Ln 21, Col 1</text>
+  </g>
+</svg>
