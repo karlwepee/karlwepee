@@ -72,7 +72,7 @@
     <!-- 1 -->
     <text x="252" y="112" fill="#6a9955" font-size="15" font-family="Courier New, monospace"># =============================================</text>
     <!-- 2 -->
-    <text x="252" y="138" fill="#6a9955" font-size="15" font-family="Courier New, monospace">#     karl_adrian_wepee . profile</text>
+    <text x="252" y="138" fill="#6a9955" font-size="15" font-family="Courier New, monospace">#     karl_wepee . profile</text>
     <!-- 3 -->
     <text x="252" y="164" fill="#6a9955" font-size="15" font-family="Courier New, monospace"># =============================================</text>
     <!-- 4 blank -->
@@ -109,7 +109,7 @@
     <text x="328" y="346" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">.</text>
     <text x="336" y="346" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">location</text>
     <text x="436" y="346" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace"> = </text>
-    <text x="466" y="346" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Philippines 🇵🇭"</text>
+    <text x="466" y="346" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Philippines"</text>
     <!-- 11 blank -->
     <!-- 12: def get_stack -->
     <text x="270" y="398" fill="#569cd6" font-size="15" font-family="Courier New, monospace">def </text>
