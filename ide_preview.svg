@@ -92,32 +92,26 @@
     <text x="336" y="268" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">name</text>
     <text x="390" y="268" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace"> = </text>
     <text x="420" y="268" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Karl Adrian U. Wepee"</text>
-    <!-- 8: self.alias -->
-    <text x="288" y="294" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">self</text>
-    <text x="328" y="294" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">.</text>
-    <text x="336" y="294" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">alias</text>
-    <text x="400" y="294" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace"> = </text>
-    <text x="430" y="294" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"kw-null"</text>
-    <!-- 9: self.status -->
+    <!-- 8: self.status -->
     <text x="288" y="320" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">self</text>
     <text x="328" y="320" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">.</text>
     <text x="336" y="320" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">status</text>
     <text x="420" y="320" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace"> = </text>
     <text x="450" y="320" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"3rd Year CS Student"</text>
-    <!-- 10: self.location -->
+    <!-- 9: self.location -->
     <text x="288" y="346" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">self</text>
     <text x="328" y="346" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">.</text>
     <text x="336" y="346" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">location</text>
     <text x="436" y="346" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace"> = </text>
     <text x="466" y="346" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Philippines"</text>
-    <!-- 11 blank -->
-    <!-- 12: def get_stack -->
+    <!-- 10 blank -->
+    <!-- 11: def get_stack -->
     <text x="270" y="398" fill="#569cd6" font-size="15" font-family="Courier New, monospace">def </text>
     <text x="310" y="398" fill="#dcdcaa" font-size="15" font-family="Courier New, monospace">get_stack</text>
     <text x="418" y="398" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">(</text>
     <text x="428" y="398" fill="#569cd6" font-size="15" font-family="Courier New, monospace">self</text>
     <text x="468" y="398" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">):</text>
-    <!-- 13: return row 1 -->
+    <!-- 12: return row 1 -->
     <text x="288" y="424" fill="#569cd6" font-size="15" font-family="Courier New, monospace">return </text>
     <text x="358" y="424" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Java"</text>
     <text x="412" y="424" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">, </text>
@@ -125,26 +119,26 @@
     <text x="502" y="424" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">, </text>
     <text x="520" y="424" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"JavaScript"</text>
     <text x="634" y="424" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">,</text>
-    <!-- 14: return row 2 -->
+    <!-- 13: return row 2 -->
     <text x="358" y="450" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"React"</text>
     <text x="418" y="450" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">, </text>
     <text x="436" y="450" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Node.js"</text>
     <text x="520" y="450" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">, </text>
     <text x="538" y="450" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"MySQL"</text>
-    <!-- 15 blank -->
-    <!-- 16: def get_focus -->
+    <!-- 14 blank -->
+    <!-- 15: def get_focus -->
     <text x="270" y="502" fill="#569cd6" font-size="15" font-family="Courier New, monospace">def </text>
     <text x="310" y="502" fill="#dcdcaa" font-size="15" font-family="Courier New, monospace">get_focus</text>
     <text x="418" y="502" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">(</text>
     <text x="428" y="502" fill="#569cd6" font-size="15" font-family="Courier New, monospace">self</text>
     <text x="468" y="502" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace">):</text>
-    <!-- 17 -->
+    <!-- 16 -->
     <text x="288" y="528" fill="#569cd6" font-size="15" font-family="Courier New, monospace">return </text>
     <text x="358" y="528" fill="#ce9178" font-size="15" font-family="Courier New, monospace">"Expanding depth across my current stack"</text>
-    <!-- 18 blank -->
-    <!-- 19: run comment -->
+    <!-- 17 blank -->
+    <!-- 18: run comment -->
     <text x="252" y="580" fill="#6a9955" font-size="15" font-family="Courier New, monospace"># --- run ---</text>
-    <!-- 20 -->
+    <!-- 19 -->
     <text x="252" y="606" fill="#9cdcfe" font-size="15" font-family="Courier New, monospace">me</text>
     <text x="282" y="606" fill="#d4d4d4" font-size="15" font-family="Courier New, monospace"> = </text>
     <text x="312" y="606" fill="#4ec9b0" font-size="15" font-family="Courier New, monospace">Developer</text>
