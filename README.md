@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=kw-null&theme=dark&hide_border=true&background=1E1E1E&ring=569cd6&fire=4ec9b0&currStreakLabel=4ec9b0&sideLabels=d4d4d4&dates=6a9955)
+![Streak](https://streak-stats.demolab.com?user=karlwepee&theme=dark&hide_border=true&background=1E1E1E&ring=569cd6&fire=4ec9b0&currStreakLabel=4ec9b0&sideLabels=d4d4d4&dates=6a9955)
 
 </div>
 
